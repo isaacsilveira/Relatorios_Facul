@@ -2,6 +2,7 @@
 Lista de relatorios Prontos ou em desenvolvimento para entregar 
 
 Alunos:
+
 ⦁ Isaac Silveira Ribeiro  | Eng. Elétrica         
 ⦁ Anna Clayce I. D. Alves | Eng. Produção       
 ⦁ Isabella Fonseca        | Eng. Produção        
